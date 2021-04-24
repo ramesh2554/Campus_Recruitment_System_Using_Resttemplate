@@ -13,9 +13,17 @@ Students can know which type of question being asked and information about that 
 In This Application, we have 3 Modules
 
 Admin
+
+
 Coordinator
+
+
+
 Student
-Admin
+
+
+**
+Admin**
 
 The admin need to log in with username and password and the admin can add coordinators by providing the basic details like name, date of birth, address etc. admin can even upload the data for the particular drive to make students more prepared. Admin can also view other placements, and if they are not correct he can delete them.
 
