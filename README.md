@@ -2,6 +2,8 @@
 
 
 Campus Recruitment System Java Project
+
+
 Abstract:
 
 Generally, now a day’s every college is conducting a placement drives to provide maximum employment for the students so conducting placement drives is not only necessary we need to make the reach of that drives to students. So this Campus Recruitment System application provides the solution. In this application the admin will the add the Coordinators, Co-coordinators are the persons who bring the placements to the college so when the coordinator gets logged into the application he can add the next coming drive details by giving Company Name, Departments to attend and the informatory videos and images. After adding the coordinator admin can upload the materials for students.
