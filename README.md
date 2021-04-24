@@ -44,9 +44,5 @@ Proposed System:
 In the Proposed system with this application, every student in the college will access the application by username and password and he can see the information of all placements and if any of other students will upload the placements outside college they can also view the placements.
 
 
-Fig: Home Page
-
-
-![image](https://user-images.githubusercontent.com/79570702/115949498-2d5cd980-a4f3-11eb-827c-0e042230445d.png)
 
 
